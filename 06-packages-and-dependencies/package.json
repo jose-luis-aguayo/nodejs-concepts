@@ -1,0 +1,17 @@
+{
+  "name": "06-packages-and-dependencies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "pino": "^6.13.2"
+  },
+  "devDependencies": {
+    "standard": "^16.0.3"
+  }
+}

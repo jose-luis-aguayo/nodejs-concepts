@@ -1,0 +1,5 @@
+Put a keyword to stop the debbuging process at an specific 
+
+function answer () {
+    debugger <-- this one is the one
+}

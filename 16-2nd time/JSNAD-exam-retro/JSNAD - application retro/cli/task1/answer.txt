@@ -1,0 +1,5 @@
+Change the command to evaluate the syntax without executing the file.
+
+answer ↓
+node --check bubble.js
+
